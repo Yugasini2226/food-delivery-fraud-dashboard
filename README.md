@@ -15,6 +15,11 @@ The dashboard helps identify high-risk complaint categories, understand refund l
 - Track monthly complaint trends
 - Provide interactive filtering for fraud investigation
 
+  ## 📸 Dashboard Preview
+
+![Food Delivery Fraud Intelligence Dashboard](tableau_dashboard.png)
+
+
 ## 📈 Dashboard Features
 
 ### Key Performance Indicators
